@@ -1,3 +1,7 @@
+* {
+	font: monospace;
+}
+
 h1 {
 	font: 150px monospace, sans-serif;
 	text-align: center;
